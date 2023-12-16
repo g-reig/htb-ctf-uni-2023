@@ -1,0 +1,17 @@
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/bin/Debug/net8.0/test
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/bin/Debug/net8.0/test.deps.json
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/bin/Debug/net8.0/test.runtimeconfig.json
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/bin/Debug/net8.0/test.dll
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/bin/Debug/net8.0/test.pdb
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/obj/Debug/net8.0/test.csproj.AssemblyReference.cache
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/obj/Debug/net8.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/obj/Debug/net8.0/test.AssemblyInfoInputs.cache
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/obj/Debug/net8.0/test.AssemblyInfo.cs
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/obj/Debug/net8.0/test.csproj.CoreCompileInputs.cache
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/obj/Debug/net8.0/test.csproj.CopyComplete
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/obj/Debug/net8.0/test.dll
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/obj/Debug/net8.0/refint/test.dll
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/obj/Debug/net8.0/test.pdb
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/obj/Debug/net8.0/test.genruntimeconfig.cache
+/Users/guillem.reig/Documents/reposPersonals/htb/web_medium/web_nexus_void/test/obj/Debug/net8.0/ref/test.dll

